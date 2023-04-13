@@ -1,6 +1,6 @@
 <h1 align="center" >Space Cream</h1>
 
-<h3 align="center" >Uma página da maior Loja de sorvetes da Galaxya</h3>
+<h3 align="center" >Uma página da maior Loja de sorvetes da Galáxia</h3>
 <br>
 
 ## Demonstração
